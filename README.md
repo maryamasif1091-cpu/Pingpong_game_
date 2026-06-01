@@ -1,4 +1,4 @@
-#🎈 Ping Pong Game (x86 Assembly – DOSBox / NASM)
+#  Ping Pong Game (x86 Assembly – DOSBox / NASM)
 
 ## Overview
 This project is a two-player Ping Pong game developed in 16-bit x86 Assembly language using NASM and executed in DOSBox. The game uses BIOS interrupts and video memory (0xB800) to render graphics directly on the screen. It includes paddle control, ball physics, collision detection, scoring system, and game restart/exit functionality.
